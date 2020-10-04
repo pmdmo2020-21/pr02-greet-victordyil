@@ -11,7 +11,6 @@ import es.iessaladillo.pedrojoya.greet.databinding.MainActivityBinding;
 
 import static android.widget.Toast.LENGTH_SHORT;
 import static es.iessaladillo.pedrojoya.greet.R.string.avisoRelleno;
-import static es.iessaladillo.pedrojoya.greet.R.string.cantidadNumero;
 
 public class MainActivity extends AppCompatActivity {
     private MainActivityBinding binding;
